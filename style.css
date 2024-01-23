@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to bottom, #aaffaa, #005500, #ffffff);
+}
+
+.texto1{
+  color: blue;
+}
+
+.lua{
+  width: 100px;
+}
+.aviso1{
+  background-color: black;
+  padding: 10px;
+  color: red;
+  width: 120px;
+}
